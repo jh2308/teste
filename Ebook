@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Suplementação Natural - Ebook Oficial</title>
+    <style>
+        body { font-family: Arial, sans-serif; margin: 0; padding: 0; background-color: #f0f8f5; color: #333; }
+        .container { max-width: 800px; margin: 0 auto; padding: 20px; }
+        h1, h2, h3 { color: #2e7d32; }
+        .button { background-color: #4caf50; color: white; padding: 15px 25px; text-align: center; text-decoration: none; display: inline-block; font-size: 18px; border-radius: 5px; margin-top: 20px; }
+        .highlight { color: #d32f2f; font-weight: bold; }
+        img { width: 100%; border-radius: 10px; }
+        ul { margin-left: 20px; }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <img src="https://chatgpt.com/s/m_6857aea9fd448191a0c1df2a193bcf0a" alt="Capa do Ebook Suplementação Natural">
+        <h1>Transforme sua Saúde com Suplementação Natural!</h1>
+        <p>✅ Você sente cansaço constante? Baixa imunidade? Dificuldade para emagrecer ou falta de disposição no dia a dia?</p>
+        <p><strong>Agora você pode recuperar sua energia, imunidade e bem-estar de forma 100% Natural!</strong></p>
+
+        <h2>📘 O Que Você Vai Aprender Neste Ebook:</h2>
+        <ul>
+            <li>Como escolher os melhores suplementos naturais</li>
+            <li>Quais vitaminas e minerais são essenciais para cada objetivo</li>
+            <li>Fitoterápicos que realmente funcionam</li>
+            <li>Lista dos melhores Superfoods</li>
+            <li>Protocolos naturais para: Imunidade, Energia, Foco e Emagrecimento</li>
+            <li>Erros comuns ao suplementar (e como evitar)</li>
+        </ul>
+
+        <h2>🌿 Benefícios Diretos Para Você:</h2>
+        <ul>
+            <li>Mais energia no dia a dia</li>
+            <li>Melhora da imunidade</li>
+            <li>Redução do estresse e ansiedade</li>
+            <li>Controle de peso saudável</li>
+        </ul>
+
+        <h3>🎁 Bônus Exclusivos:</h3>
+        <ul>
+            <li>Checklist de Suplementação Diária</li>
+            <li>Tabela de Alimentos Ricos em Nutrientes Essenciais</li>
+        </ul>
+
+        <h2 class="highlight">📌 Oferta Especial de Lançamento: Apenas R$9,90!</h2>
+        <p><strong>Pagamento 100% seguro e acesso imediato ao conteúdo digital.</strong></p>
+
+        <a class="button" href="https://pay.kiwify.com.br/9HjxdIz">QUERO MEU EBOOK AGORA!</a>
+
+        <p>✅ Garantia de satisfação: Se você não gostar, devolvemos seu dinheiro em até 7 dias.</p>
+    </div>
+</body>
+</html>
